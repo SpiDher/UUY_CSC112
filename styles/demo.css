@@ -538,3 +538,13 @@ header.search-container {
 .performance-text {
     color: orange;
 }
+
+@media only screen and (max-width: 700px) {
+    .main-content {
+        padding-left: 0px;
+        max-width: 10%;
+    }
+    .course-student {
+        font-size: 20px;
+    }
+}
