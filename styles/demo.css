@@ -545,18 +545,24 @@ header.search-container {
         max-width: 10%;
     }
     .learn-text {
-        font-size: 10px;
+        font-size: 25px;
     }
     .search-container {
-        width: 100px;
+        width: 200px;
     }
     .course-code {
         font-size: 20px;
     }
     .student-btn {
-        width: 100px;
+        width: 150px;
     }
     header {
         column-gap: 15px;
+    }
+    .performance-text {
+        font-size: 19px;
+    }
+    .course-student {
+        column-gap: 30px;
     }
 }
