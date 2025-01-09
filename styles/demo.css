@@ -556,6 +556,7 @@ header.search-container {
     }
     .student-btn {
         width: 150px;
+        height: 15px;
     }
     header {
         column-gap: 13px;
