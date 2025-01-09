@@ -563,4 +563,14 @@ header.search-container {
     .performance-text {
         font-size: 9px;
     }
+    .course-student {
+        display: flex;
+        justify-content: space-between;
+        column-gap: 30px;
+    }
+    .lectures-overview-header {
+        display: flex;
+        justify-content: space-between;
+        column-gap: 45px;
+    }
 }
