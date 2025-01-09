@@ -560,9 +560,12 @@ header.search-container {
         column-gap: 15px;
     }
     .performance-text {
-        font-size: 19px;
+        font-size: 5px;
     }
     .course-student {
         column-gap: 30px;
+    }
+    .search-container {
+        font-size: 3px;
     }
 }
