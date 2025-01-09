@@ -548,7 +548,8 @@ header.search-container {
         font-size: 25px;
     }
     .search-container {
-        width: 200px;
+        width: 150px;
+        font-size: 3px;
     }
     .course-code {
         font-size: 20px;
@@ -557,15 +558,9 @@ header.search-container {
         width: 110px;
     }
     header {
-        column-gap: 15px;
+        column-gap: 13px;
     }
     .performance-text {
-        font-size: 13px;
-    }
-    .course-student {
-        column-gap: 30px;
-    }
-    .search-container {
-        font-size: 3px;
+        font-size: 9px;
     }
 }
