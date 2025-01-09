@@ -555,7 +555,7 @@ header.search-container {
         font-size: 20px;
     }
     .student-btn {
-        width: 110px;
+        width: 150px;
     }
     header {
         column-gap: 13px;
@@ -571,6 +571,6 @@ header.search-container {
     .lectures-overview-header {
         display: flex;
         justify-content: space-between;
-        column-gap: 45px;
+        column-gap: 80px;
     }
 }
