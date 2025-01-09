@@ -544,10 +544,16 @@ header.search-container {
         padding-left: 0px;
         max-width: 10%;
     }
+    .learn-text {
+        font-size: 10px;
+    }
+    .search-container {
+        width: 100px;
+    }
     .course-code {
         font-size: 20px;
     }
-    .btn-container {
+    .student-btn {
         width: 100px;
     }
     header {
