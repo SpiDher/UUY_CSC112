@@ -551,6 +551,6 @@ header.search-container {
         width: 100px;
     }
     header {
-        column-gap: 30px;
+        column-gap: 15px;
     }
 }
