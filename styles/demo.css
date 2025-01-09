@@ -554,13 +554,13 @@ header.search-container {
         font-size: 20px;
     }
     .student-btn {
-        width: 150px;
+        width: 110px;
     }
     header {
         column-gap: 15px;
     }
     .performance-text {
-        font-size: 5px;
+        font-size: 13px;
     }
     .course-student {
         column-gap: 30px;
