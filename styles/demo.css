@@ -544,7 +544,13 @@ header.search-container {
         padding-left: 0px;
         max-width: 10%;
     }
-    .course-student {
+    .course-code {
         font-size: 20px;
+    }
+    .btn-container {
+        width: 100px;
+    }
+    header {
+        column-gap: 30px;
     }
 }
