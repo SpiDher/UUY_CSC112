@@ -572,9 +572,9 @@ header.search-container {
     .lectures-overview-header {
         display: flex;
         justify-content: space-between;
-        column-gap: 80px;
+        column-gap: 100px;
     }
     .quizButton {
-        font-size: 20px;
+        font-size: 15px;
     }
 }
