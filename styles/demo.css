@@ -559,15 +559,15 @@ header.search-container {
         /* padding: 0.3em 0.5em; */
     }
     header {
-        column-gap: 20px;
+        column-gap: 50px;
     }
     .performance-text {
-        font-size: 15px;
+        font-size: 13px;
     }
     .course-student {
         display: flex;
         justify-content: space-between;
-        column-gap: 50px;
+        column-gap: 70px;
     }
     .lectures-overview-header {
         display: flex;
