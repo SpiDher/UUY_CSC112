@@ -572,7 +572,7 @@ header.search-container {
     .lectures-overview-header {
         display: flex;
         justify-content: space-between;
-        column-gap: 190px;
+        column-gap: 170px;
     }
     .quizButton {
         font-size: 15px;
