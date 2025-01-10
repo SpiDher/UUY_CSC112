@@ -551,8 +551,8 @@ header.search-container {
         font-size: 20px;
     }
     .search-container {
-        width: 150px;
-        font-size: 3px;
+        width: 163px;
+        font-size: 5px;
     }
     .search-container input[type="text"] {
         font-size: 9px;
@@ -567,23 +567,23 @@ header.search-container {
         /* padding: 0.3em 0.5em; */
     }
     header {
-        column-gap: 22px;
+        column-gap: 30px;
     }
     .profile-text {
         font-size: 11px;
     }
     .performance-text {
-        font-size: 11px;
+        font-size: 13px;
     }
     .course-student {
         display: flex;
         justify-content: space-between;
-        column-gap: 35px;
+        column-gap: 65px;
     }
     .lectures-overview-header {
         display: flex;
         justify-content: space-between;
-        column-gap: 98px;
+        column-gap: 139px;
     }
     .quizButton {
         font-size: 11px;
