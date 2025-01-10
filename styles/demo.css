@@ -586,6 +586,6 @@ header.search-container {
         color: red;
     }
     .go-back-container {
-        padding-top: 100px;
+        padding-bottom: 300px;
     }
 }
