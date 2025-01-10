@@ -584,4 +584,13 @@ header.search-container {
     .readmore {
         width: 70px;
     }
+    .GoBack {
+        column-gap: 180px;
+    }
+    .title {
+        font-size: 20px;
+    }
+    .course-description {
+        font-size: 10px;
+    }
 }
