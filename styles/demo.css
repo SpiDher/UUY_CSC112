@@ -581,4 +581,8 @@ header.search-container {
     .template1 {
         width: 217px;
     }
+    .readmore {
+        width: 70px;
+        color: red;
+    }
 }
