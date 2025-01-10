@@ -542,7 +542,7 @@ header.search-container {
 @media only screen and (max-width: 700px) {
     .main-content {
         padding-left: 0px;
-        max-width: 10%;
+        max-width: 5%;
     }
     .learn-text {
         font-size: 25px;
@@ -559,7 +559,7 @@ header.search-container {
         /* padding: 0.3em 0.5em; */
     }
     header {
-        column-gap: 40px;
+        column-gap: 35px;
     }
     .performance-text {
         font-size: 13px;
@@ -572,7 +572,7 @@ header.search-container {
     .lectures-overview-header {
         display: flex;
         justify-content: space-between;
-        column-gap: 160px;
+        column-gap: 150px;
     }
     .quizButton {
         font-size: 15px;
