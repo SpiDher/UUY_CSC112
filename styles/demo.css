@@ -540,12 +540,22 @@ header.search-container {
 }
 
 @media only screen and (max-width: 500px) {
+    html,
+    body {
+        overflow-x: hidden;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+    * {
+        box-sizing: border-box;
+    }
     body {
         padding: 0.8rem;
     }
     .main-content {
         padding-left: 0px;
-        max-width: 5%;
+        max-width: 100%;
     }
     .learn-text {
         font-size: 20px;
