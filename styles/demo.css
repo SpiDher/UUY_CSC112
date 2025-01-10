@@ -561,8 +561,8 @@ header.search-container {
         font-size: 20px;
     }
     .search-container {
-        width: 163px;
-        font-size: 5px;
+        width: fit-content;
+        font-size: 10px;
     }
     .search-container input[type="text"] {
         font-size: 9px;
