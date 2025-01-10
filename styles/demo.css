@@ -555,7 +555,7 @@ header.search-container {
         font-size: 20px;
     }
     .student-btn {
-        width: 155px;
+        width: 140px;
         /* padding: 0.3em 0.5em; */
     }
     header {
@@ -576,5 +576,6 @@ header.search-container {
     }
     .quizButton {
         font-size: 15px;
+        width: 100px;
     }
 }
