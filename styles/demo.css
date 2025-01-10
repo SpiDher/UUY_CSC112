@@ -540,26 +540,37 @@ header.search-container {
 }
 
 @media only screen and (max-width: 700px) {
+    body {
+        padding: 0.8rem;
+    }
     .main-content {
         padding-left: 0px;
         max-width: 5%;
     }
     .learn-text {
-        font-size: 25px;
+        font-size: 20px;
     }
     .search-container {
         width: 150px;
         font-size: 3px;
     }
+    .search-container input[type="text"] {
+        font-size: 9px;
+    }
     .course-code {
         font-size: 20px;
     }
     .student-btn {
-        width: 140px;
+        width: 110px;
+        height: 70px;
+        font-size: 13px;
         /* padding: 0.3em 0.5em; */
     }
     header {
-        column-gap: 35px;
+        column-gap: 14.9px;
+    }
+    .profile-text {
+        font-size: 11px;
     }
     .performance-text {
         font-size: 13px;
@@ -567,12 +578,12 @@ header.search-container {
     .course-student {
         display: flex;
         justify-content: space-between;
-        column-gap: 60px;
+        column-gap: 25px;
     }
     .lectures-overview-header {
         display: flex;
         justify-content: space-between;
-        column-gap: 150px;
+        column-gap: 87px;
     }
     .quizButton {
         font-size: 15px;
@@ -592,5 +603,10 @@ header.search-container {
     }
     .course-description {
         font-size: 20px;
+    }
+    .go-back {
+        font-size: 10px;
+        width: 60px;
+        height: 21px;
     }
 }
