@@ -582,6 +582,9 @@ header.search-container {
     .profile-text {
         font-size: 11px;
     }
+    .profile {
+        width: fit-content;
+    }
     .performance-text {
         font-size: 13px;
     }
