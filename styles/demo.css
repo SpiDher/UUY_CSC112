@@ -567,7 +567,7 @@ header.search-container {
         /* padding: 0.3em 0.5em; */
     }
     header {
-        column-gap: 14.9px;
+        column-gap: 19px;
     }
     .profile-text {
         font-size: 11px;
@@ -578,12 +578,12 @@ header.search-container {
     .course-student {
         display: flex;
         justify-content: space-between;
-        column-gap: 25px;
+        column-gap: 35px;
     }
     .lectures-overview-header {
         display: flex;
         justify-content: space-between;
-        column-gap: 87px;
+        column-gap: 98px;
     }
     .quizButton {
         font-size: 15px;
