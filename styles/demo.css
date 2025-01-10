@@ -559,20 +559,20 @@ header.search-container {
         /* padding: 0.3em 0.5em; */
     }
     header {
-        column-gap: 13px;
+        column-gap: 20px;
     }
     .performance-text {
-        font-size: 13px;
+        font-size: 15px;
     }
     .course-student {
         display: flex;
         justify-content: space-between;
-        column-gap: 30px;
+        column-gap: 50px;
     }
     .lectures-overview-header {
         display: flex;
         justify-content: space-between;
-        column-gap: 100px;
+        column-gap: 190px;
     }
     .quizButton {
         font-size: 15px;
