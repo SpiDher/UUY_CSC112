@@ -562,7 +562,7 @@ header.search-container {
         column-gap: 13px;
     }
     .performance-text {
-        font-size: 9px;
+        font-size: 13px;
     }
     .course-student {
         display: flex;
@@ -573,5 +573,8 @@ header.search-container {
         display: flex;
         justify-content: space-between;
         column-gap: 80px;
+    }
+    .quizButton {
+        font-size: 20px;
     }
 }
