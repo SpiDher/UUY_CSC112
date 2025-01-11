@@ -558,7 +558,7 @@ header.search-container {
         max-width: 100%;
     }
     .learn-text {
-        font-size: 20px;
+        font-size: 16px;
     }
     .search-container {
         width: fit-content;
@@ -577,7 +577,7 @@ header.search-container {
         /* padding: 0.3em 0.5em; */
     }
     header {
-        column-gap: 17px;
+        column-gap: 16px;
     }
     .profile-text {
         font-size: 11px;
