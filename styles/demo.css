@@ -539,6 +539,25 @@ header.search-container {
     color: orange;
 }
 
+.material-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image {
+    width: 200px;
+}
+
+.image1 {
+    width: 200px;
+    height: 300px;
+}
+
+.course-materials {
+    font-weight: 700;
+    font-family: Open Sans;
+}
+
 @media only screen and (max-width: 500px) {
     html,
     body {
@@ -621,5 +640,12 @@ header.search-container {
         font-size: 10px;
         width: 60px;
         height: 21px;
+    }
+    .image {
+        width: 80px;
+    }
+    .image1 {
+        width: 80px;
+        height: 120px;
     }
 }
